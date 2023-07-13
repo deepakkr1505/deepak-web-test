@@ -1,0 +1,38 @@
+body{
+    background-image: url("public/images/slide\ 1.png");
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-color: black;
+  opacity: calc(1);
+  opacity: 100%;
+  opacity: inherit;
+}
+.ak{
+    font-size: 90px;
+    margin:300px ;
+    color: #FFFFFF;
+     padding-top: 60px;
+    font-weight:bold;
+    white-space: 60px;
+    line-height: 110px;
+}
+#ab{
+    background-image: url(public/images/Path\ 1.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    
+}
+#bh{
+font-size: 50px;
+}
+.ww{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+#bh1{
+    font-size: 150px;
+    justify-content: center;
+    align-items: center;
+   
+}
